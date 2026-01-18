@@ -13,7 +13,7 @@ import warnings
 warnings.filterwarnings("ignore", message=".*use_column_width.*")
 
 #######################
-# ⚙️ Page Configurations
+# ⚙️ Page Configuration
 st.set_page_config(
     page_title="Project RFM Customer Segmentation - Shopping Dataset (Retail Sales Data)",
     page_icon="📊",
